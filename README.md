@@ -133,6 +133,7 @@ alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="2
 ![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-IntelliJ-000000?logo=intellij-idea&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Vagrant-1868F2?logo=vagrant&style=for-the-badge&logoColor=white)
