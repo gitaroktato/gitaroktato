@@ -5,6 +5,25 @@ I'm a Chief Software Engineer at [\<EPAM\>](https://github.com/epam).
 - 🌱 I’m currently learning GraphQL, using [Apollo GraphQL tutorials](https://www.apollographql.com/tutorials).
 - 🌱 I’m currently also learning AWS ☁.
 
+## GitHub Projects
+### [GCode Retraction Changer](https://github.com/gitaroktato/gcode-retraction-changer)
+Changes retraction speed & distance from a specific layer gradually, because Cura is unable to do so.
+![stars](https://img.shields.io/github/stars/gitaroktato/gcode-retraction-changer?style=social)
+
+<img src="https://github.com/gitaroktato/gcode-retraction-changer/blob/master/images/IMG_20200729_165354.jpg" width=240>
+
+### [Cassandra Replication Latency Tools](https://github.com/gitaroktato/cassandra-replication-latency-tools)
+Simulating multi-DC Cassandra cluster with configurable WAN connection
+![stars](https://img.shields.io/github/stars/gitaroktato/cassandra-replication-latency-tools?style=social)
+
+<img src="https://github.com/gitaroktato/cassandra-replication-latency-tools/blob/master/images/latency_ntp_with_128ms_sync.png" width=270>
+
+## Presentations
+
+
+## Articles
+
+
 ## Public Profiles
 <a href="https://twitter.com/gitaroktato">
 <img src="https://user-images.githubusercontent.com/1140629/192493814-9841d21d-6277-4d3d-85be-4361ac0e5ce1.png">
@@ -16,6 +35,11 @@ I'm a Chief Software Engineer at [\<EPAM\>](https://github.com/epam).
 <a href="https://wearecommunity.io/users/oresztesz-margaritisz">
 <img src="https://user-images.githubusercontent.com/1140629/192493586-ad4246ad-b2d9-4096-8289-fcc25f164877.png">
 </a>
+
+## Tech Stack
+
+## HackerRank badges
+![Problem Solving](https://user-images.githubusercontent.com/1140629/192503013-053042a9-154c-4ec8-8e87-b5855a42cb9b.png)
 
 <!--
 **gitaroktato/gitaroktato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
