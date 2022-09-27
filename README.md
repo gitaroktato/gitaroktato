@@ -133,8 +133,7 @@ alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="2
 ![](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Vagrant-1868F2?logo=vagrant&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Diagrams.net-F08705?logo=diagrams.net&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-OctoPrint-#13C100?logo=octoprint&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-OctoPrint-#13C100?logo=octoprint&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-OctoPrint-13C100?logo=octoprint&style=for-the-badge&logoColor=white)
 
 ## HackerRank Badges
 ![Problem Solving](https://user-images.githubusercontent.com/1140629/192503013-053042a9-154c-4ec8-8e87-b5855a42cb9b.png)
