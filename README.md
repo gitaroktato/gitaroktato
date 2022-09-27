@@ -50,9 +50,9 @@ alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="2
 ## Articles
 [Protect Your Invariants!](https://dzone.com/articles/protect-your-invariants)
 
-[An Overview of Health Check](Patterns https://dzone.com/articles/an-overview-of-health-check-patterns)
+[An Overview of Health Check Patterns](https://dzone.com/articles/an-overview-of-health-check-patterns)
 
-[Incorporating Fault-Tolerance](Into Your Microservice Architecture https://dzone.com/articles/incorporating-fault-tolerance-into-your-microservi)
+[Incorporating Fault-Tolerance Into Your Microservice Architecture](https://dzone.com/articles/incorporating-fault-tolerance-into-your-microservi)
 
 [Designing Fault-Tolerant Microservices With Toxiproxy and Cucumber](https://dzone.com/articles/designing-fault-tolerant-microservices-with-toxipr)
 
