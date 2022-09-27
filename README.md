@@ -67,7 +67,17 @@ Multi-Tenant Cassandra Clusters With Spring Data Cassandra https://dzone.com/art
 <img src="https://user-images.githubusercontent.com/1140629/192493586-ad4246ad-b2d9-4096-8289-fcc25f164877.png">
 </a>
 
+<!-- https://simpleicons.org/?q=junit -->
+<!-- https://img.shields.io/badge/-Kubernetes-blue?logo=apache-cassandra&style=for-the-badge&logoColor=white -->
 ## Current Tech Stack
+![](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-Kotlin-grey?logo=kotlin&style=for-the-badge&logoColor=purple)
+![](https://img.shields.io/badge/-React-blue?logo=react&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-Java-lightgrey?logo=jar&style=for-the-badge&logoColor=black)
+![](https://img.shields.io/badge/-JUnit5-grey?logo=junit5&style=for-the-badge&logoColor=25A162)
+![](https://img.shields.io/badge/-Spring-white?logo=spring&style=for-the-badge&logoColor=green)
+![](https://img.shields.io/badge/-Cassandra-white?logo=apache-cassandra&style=for-the-badge&logoColor=1287B1)
+![](https://img.shields.io/badge/-Kafka-white?logo=apache-kafka&style=for-the-badge&logoColor=231F20)
 
 ## HackerRank badges
 ![Problem Solving](https://user-images.githubusercontent.com/1140629/192503013-053042a9-154c-4ec8-8e87-b5855a42cb9b.png)
