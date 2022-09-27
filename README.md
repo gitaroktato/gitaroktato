@@ -114,6 +114,7 @@ alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="2
 ![](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-JSON-000000?logo=json&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Markdown-000000?logo=markdown&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&style=for-the-badge&logoColor=white)
