@@ -84,7 +84,7 @@ alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="2
 ![](https://img.shields.io/badge/-Cassandra-white?logo=apache-cassandra&style=for-the-badge&logoColor=1287B1)
 ![](https://img.shields.io/badge/-Kafka-white?logo=apache-kafka&style=for-the-badge&logoColor=231F20)
 
-## HackerRank badges
+## HackerRank Badges
 ![Problem Solving](https://user-images.githubusercontent.com/1140629/192503013-053042a9-154c-4ec8-8e87-b5855a42cb9b.png)
 
 <!--
