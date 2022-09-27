@@ -37,6 +37,15 @@ alt="How to make technical decisions?" width="240" height="180" border="10" /></
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=k8ehd1sfxHg
 " target="_blank"><img src="http://img.youtube.com/vi/k8ehd1sfxHg/0.jpg" 
 alt="Overview of health check patterns" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-mWXg6hyFB4
+" target="_blank"><img src="http://img.youtube.com/vi/-mWXg6hyFB4/0.jpg" 
+alt="How to make technical decisions?" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qJc8gXO4XNI
+" target="_blank"><img src="http://img.youtube.com/vi/qJc8gXO4XNI/0.jpg" 
+alt="Being agile with modern Java" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xwHZ748UxYI
+" target="_blank"><img src="http://img.youtube.com/vi/xwHZ748UxYI/0.jpg" 
+alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="240" height="180" border="10" /></a>
 
 ## Articles
 
