@@ -78,12 +78,15 @@ alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="2
 ![](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Helm-0F1689?logo=helm&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Java-lightgrey?logo=jar&style=for-the-badge&logoColor=black)
 ![](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-JUnit5-25A162?logo=junit5&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Cucumber-23D96C?logo=junit5&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-Quarkus-4695EB?logo=quarkus&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&style=for-the-badge&logoColor=white)
@@ -108,6 +111,7 @@ alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="2
 ![](https://img.shields.io/badge/-ECS-FF9900?logo=amazon-ecs&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-EKS-FF9900?logo=amazon-eks&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-SQS-FF4F8B?logo=amazon-sqs&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-RaspberryPI-A22846?logo=raspberrypi&style=for-the-badge&logoColor=white)
 
 ## HackerRank Badges
 ![Problem Solving](https://user-images.githubusercontent.com/1140629/192503013-053042a9-154c-4ec8-8e87-b5855a42cb9b.png)
