@@ -78,6 +78,8 @@ alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="2
 ![](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Helm-0F1689?logo=helm&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-Spinnaker-139BB4?logo=spinnaker&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Apollo-311C87?logo=apollo-graphql&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&style=for-the-badge&logoColor=white)
