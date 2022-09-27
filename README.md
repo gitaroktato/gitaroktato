@@ -119,6 +119,7 @@ alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="2
 ![](https://img.shields.io/badge/-RaspberryPI-A22846?logo=raspberrypi&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Linux-FCC624?logo=linux&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-git-F05032?logo=git&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&style=for-the-badge&logoColor=white)
