@@ -74,7 +74,7 @@ alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="2
 
 <!-- https://simpleicons.org/?q=junit -->
 <!-- https://img.shields.io/badge/-Kubernetes-blue?logo=apache-cassandra&style=for-the-badge&logoColor=white -->
-## Current Tech Stack
+## Technologies I Know
 ![](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Helm-0F1689?logo=helm&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white)
