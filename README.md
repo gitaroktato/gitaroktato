@@ -48,7 +48,12 @@ alt="Being agile with modern Java" width="240" height="180" border="10" /></a>
 alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="240" height="180" border="10" /></a>
 
 ## Articles
-
+Protect Your Invariants! https://dzone.com/articles/protect-your-invariants
+An Overview of Health Check Patterns https://dzone.com/articles/an-overview-of-health-check-patterns
+Incorporating Fault-Tolerance Into Your Microservice Architecture https://dzone.com/articles/incorporating-fault-tolerance-into-your-microservi
+Designing Fault-Tolerant Microservices With Toxiproxy and Cucumber https://dzone.com/articles/designing-fault-tolerant-microservices-with-toxipr
+Google Authentication for Your AWS Management Console With OAuth 2.0 https://dzone.com/articles/google-authentication-for-your-aws-management-cons
+Multi-Tenant Cassandra Clusters With Spring Data Cassandra https://dzone.com/articles/multi-tenant-cassandra-cluster-with-spring-data-ca
 
 ## Public Profiles
 <a href="https://twitter.com/gitaroktato">
@@ -62,7 +67,7 @@ alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="2
 <img src="https://user-images.githubusercontent.com/1140629/192493586-ad4246ad-b2d9-4096-8289-fcc25f164877.png">
 </a>
 
-## Tech Stack
+## Current Tech Stack
 
 ## HackerRank badges
 ![Problem Solving](https://user-images.githubusercontent.com/1140629/192503013-053042a9-154c-4ec8-8e87-b5855a42cb9b.png)
