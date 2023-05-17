@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Oresztesz Margaritisz
 I'm a Chief Software Engineer at [\<EPAM\>](https://github.com/epam).
 
-- 🔭 I’m currently working on modding my printer to direct drive.
+- 🔭 I’m currently working on modding my printer to direct-drive extrusion.
 - 🌱 I’m currently learning GraphQL, using [Apollo GraphQL tutorials](https://www.apollographql.com/tutorials).
 - 🌱 I’m currently also learning AWS ☁
 
