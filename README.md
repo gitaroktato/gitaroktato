@@ -67,6 +67,7 @@ alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="2
 <a href="https://twitter.com/gitaroktato">
 <img src="https://user-images.githubusercontent.com/1140629/192493814-9841d21d-6277-4d3d-85be-4361ac0e5ce1.png">
 </a>
+<a rel="me" href="https://mastodon.social/@gitaroktato">@gitaroktato@mastodon.social</a>
 <a href="https://stackoverflow.com/users/8321787"><img src="https://stackoverflow.com/users/flair/8321787.png" width="208" height="58" alt="profile for Oresztesz on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Oresztesz on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> 
 <a href="https://dzone.com/users/2712582/oresztesz-margaritisz.html">
 <img src="https://dzone.com/themes/dz20/images/dz_logo_2021_cropped.png">
