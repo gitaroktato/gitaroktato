@@ -6,6 +6,13 @@ I'm a Chief Software Engineer at [\<EPAM\>](https://github.com/epam).
 - 🌱 I’m currently also learning AWS ☁
 
 ## GitHub Projects
+### [Queue Model in Python](https://github.com/gitaroktato/queue-model-in-python)
+A simple queue model in Python. I use it for various experiments and workload planning.
+![stars](https://img.shields.io/github/stars/gitaroktato/queue-model-in-python?style=social)
+![license](https://img.shields.io/github/license/gitaroktato/queue-model-in-python?style=social)
+
+<img src="https://github.com/gitaroktato/queue-model-in-python/blob/main/docs/img/dashboard.png" width=240>
+
 ### [GCode Retraction Changer](https://github.com/gitaroktato/gcode-retraction-changer)
 Changes retraction speed & distance from a specific layer gradually, because Cura is unable to do so.
 ![stars](https://img.shields.io/github/stars/gitaroktato/gcode-retraction-changer?style=social)
