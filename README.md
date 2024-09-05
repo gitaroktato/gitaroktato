@@ -25,7 +25,7 @@ An ESP8266 (Node MCU) -based OpenSource weather station.
 ![stars](https://img.shields.io/github/stars/gitaroktato/espweather?style=social)
 ![license](https://img.shields.io/github/license/gitaroktato/espweather?style=social)
 
-<img src="https://github.com/gitaroktato/espweather/blob/master/img/1704799735185.jpg" width=240>
+<img src="https://github.com/gitaroktato/espweather/blob/master/img/1725522983743.jpg" width=240>
 
 ### [Cassandra Replication Latency Tools](https://github.com/gitaroktato/cassandra-replication-latency-tools)
 Simulating multi-DC Cassandra cluster with configurable WAN connection
