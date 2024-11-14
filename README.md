@@ -44,6 +44,9 @@ A software that's using Monte Carlo simulation for showing availability of combi
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=n0ADvH1pEXg
 " target="_blank"><img src="http://img.youtube.com/vi/n0ADvH1pEXg/0.jpg" 
 alt="Aspects of Microservice Interactions - JaCoV" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fyDecUmkYcA
+" target="_blank"><img src="http://img.youtube.com/vi/fyDecUmkYcA/0.jpg" 
+alt="Aspects of Microservice Interactions - Conf42" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gxxKPhuw4e8
 " target="_blank"><img src="http://img.youtube.com/vi/gxxKPhuw4e8/0.jpg" 
 alt="Protect Your Invariants!" width="240" height="180" border="10" /></a>
