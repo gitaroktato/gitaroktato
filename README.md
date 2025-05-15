@@ -41,6 +41,9 @@ A software that's using Monte Carlo simulation for showing availability of combi
 <img src="https://github.com/gitaroktato/microservices-availability-simulator/blob/master/docs/service_dependency_graph.png" width=240>
 
 ## Presentations
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jADJ-nEsDqM
+" target="_blank"><img src="http://img.youtube.com/vi/jADJ-nEsDqM/0.jpg" 
+alt="Aspects of Microservice Interactions - JaCoV" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=n0ADvH1pEXg
 " target="_blank"><img src="http://img.youtube.com/vi/n0ADvH1pEXg/0.jpg" 
 alt="Aspects of Microservice Interactions - JaCoV" width="240" height="180" border="10" /></a>
