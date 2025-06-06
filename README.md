@@ -70,6 +70,10 @@ alt="Being agile with modern Java" width="240" height="180" border="10" /></a>
 alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="240" height="180" border="10" /></a>
 
 ## Articles
+[Configuring LazyVim and Python on Windows with WSL](https://dev.to/gitaroktato/configuring-lazyvim-and-python-on-windows-with-wsl-2fpd)
+
+[Queuing Theory for Software Engineers](https://dzone.com/articles/queuing-theory-for-software-engineers)
+
 [Protect Your Invariants!](https://dzone.com/articles/protect-your-invariants)
 
 [Queuing Theory for Software Engineers](https://dzone.com/articles/queuing-theory-for-software-engineers)
