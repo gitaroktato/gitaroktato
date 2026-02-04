@@ -70,6 +70,8 @@ alt="Being agile with modern Java" width="240" height="180" border="10" /></a>
 alt="Cassandra on EPAM Cloud - Database deployed in multiple locations" width="240" height="180" border="10" /></a>
 
 ## Articles
+[Steps to Take for an Awesome AWS Deployment Diagram](https://dev.to/gitaroktato/steps-to-take-for-an-awesome-aws-deployment-diagram-222m)
+
 [Configuring LazyVim and Python on Windows with WSL](https://dev.to/gitaroktato/configuring-lazyvim-and-python-on-windows-with-wsl-2fpd)
 
 [Queuing Theory for Software Engineers](https://dzone.com/articles/queuing-theory-for-software-engineers)
