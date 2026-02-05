@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Oresztesz Margaritisz
 I'm a Chief Software Engineer at [\<EPAM\>](https://github.com/epam).
 
-- 🔭 I’m currently working on AI agents.
+- 🔭 I’m currently working on AI agents and local LLMs
 - 🌱 I’m currently learning LangGraph, using [LangChain Academy]([https://www.apollographql.com/tutorials](https://academy.langchain.com/)).
 - 🌱 I’m currently also doing electronics as a [hobby](https://github.com/gitaroktato/douk-u3).
 
