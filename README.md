@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Oresztesz Margaritisz
 I'm a Chief Software Engineer at [\<EPAM\>](https://github.com/epam).
 
-- 🔭 I’m currently working on modding my printer to direct-drive extrusion.
-- 🌱 I’m currently learning GraphQL, using [Apollo GraphQL tutorials](https://www.apollographql.com/tutorials).
-- 🌱 I’m currently also learning AWS ☁
+- 🔭 I’m currently working on AI agents
+- 🌱 I’m currently learning LangGraph, using [LangChain Academy]([https://www.apollographql.com/tutorials](https://academy.langchain.com/)).
+- 🌱 I’m currently also doing electronics as a [hobby](https://github.com/gitaroktato/douk-u3)
 
 ## GitHub Projects
 ### [Queue Model in Python](https://github.com/gitaroktato/queue-model-in-python)
