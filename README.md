@@ -10,15 +10,13 @@ I'm a Chief Software Engineer at [\<EPAM\>](https://github.com/epam).
 ### AI Architect 🏦
 Building a powerful AI architect splitted into multiple projects. See [this article](https://dev.to/gitaroktato/using-your-own-architecture-agent-with-opencode-and-aws-mcp-servers-2j26) on dev.to for a gentle introduction.  
 
-[OpenCode agent configuration](https://github.com/gitaroktato/opencode-agents) with AWS and DrawIO MCP integration, arc42, ADR, and C4 skills. 
+- [OpenCode agent configuration](https://github.com/gitaroktato/opencode-agents) with AWS and DrawIO MCP integration, arc42, ADR, and C4 skills. 
 ![stars](https://img.shields.io/github/stars/gitaroktato/opencode-agents?style=social)
 ![license](https://img.shields.io/github/license/gitaroktato/opencode-agents?style=social)
-
-[Architecture project skeleton](https://github.com/gitaroktato/architecture-project-skeleton) based on arc42 templates. 
+- [Architecture project skeleton](https://github.com/gitaroktato/architecture-project-skeleton) based on arc42 templates. 
 ![stars](https://img.shields.io/github/stars/gitaroktato/architecture-project-skeleton?style=social)
 ![license](https://img.shields.io/github/license/gitaroktato/architecture-project-skeleton?style=social)
-
-[Local vector search and indexing](https://github.com/gitaroktato/project-tessera) for better document cross-referencing and search.
+- [Local vector search and indexing](https://github.com/gitaroktato/project-tessera) for better document cross-referencing and search.
 ![stars](https://img.shields.io/github/stars/gitaroktato/project-tessera?style=social)
 ![license](https://img.shields.io/github/license/gitaroktato/project-tessera?style=social)
 
