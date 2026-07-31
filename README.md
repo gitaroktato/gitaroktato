@@ -7,6 +7,14 @@ I'm a Chief Software Engineer at [\<EPAM\>](https://github.com/epam).
 
 ## GitHub Projects
 
+### Local LLM
+Building a combination of hardware and software capable of running LLMs for coding and doing many more.
+- <https://github.com/gitaroktato/local-llm>
+
+<img src="https://github.com/gitaroktato/local-llm/blob/main/img/final-machine.jpg" width=240>
+<img src="https://github.com/gitaroktato/local-llm/blob/main/img/gpu-mount-design.png" width=240>
+<img src="https://github.com/gitaroktato/local-llm/blob/main/img/tpc-arch.png" width=240>
+
 ### AI Architect 🏦
 Building a powerful AI architect splitted into multiple projects. See [this article](https://dev.to/gitaroktato/using-your-own-architecture-agent-with-opencode-and-aws-mcp-servers-2j26) on dev.to for a gentle introduction.  
 
