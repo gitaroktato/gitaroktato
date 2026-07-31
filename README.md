@@ -9,11 +9,13 @@ I'm a Chief Software Engineer at [\<EPAM\>](https://github.com/epam).
 
 ### Local LLM
 Building a combination of hardware and software capable of running LLMs for coding and doing many more.
-- <https://github.com/gitaroktato/local-llm>
 
-<img src="https://github.com/gitaroktato/local-llm/blob/main/img/final-machine.jpg" width=240>
-<img src="https://github.com/gitaroktato/local-llm/blob/main/img/gpu-mount-design.png" width=240>
-<img src="https://github.com/gitaroktato/local-llm/blob/main/img/tpc-arch.png" width=240>
+<a href="https://github.com/gitaroktato/local-llm" target="_blank">
+<img src="https://github.com/gitaroktato/local-llm/blob/main/img/final-machine.jpg" width="240" height="180" border="10" /></a>
+<a href="https://github.com/gitaroktato/local-llm" target="_blank">
+<img src="https://github.com/gitaroktato/local-llm/blob/main/img/gpu-mount-design.png" width="240" height="180" border="10" /></a>
+<a href="https://github.com/gitaroktato/local-llm" target="_blank"> 
+<img src="https://github.com/gitaroktato/local-llm/blob/main/img/tpc-arch.png" width="240" height="180" border="10" /></a>
 
 ### AI Architect 🏦
 Building a powerful AI architect splitted into multiple projects. See [this article](https://dev.to/gitaroktato/using-your-own-architecture-agent-with-opencode-and-aws-mcp-servers-2j26) on dev.to for a gentle introduction.  
